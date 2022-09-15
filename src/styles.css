@@ -233,7 +233,6 @@ h3 {
     --color-tertiary: #7EAEF2;
     --color-quaternary: #90BAF5;
     --color-quinary: #A2C4F5;
-
 }
 
 body {
@@ -244,7 +243,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url(../black-marble-patterned-texture-background-marble-of-thailand-abstract-natural-marble-black-and-white-for-design.jpg);
+    background-image: url(./../black-marble-patterned-texture-background-marble-of-thailand-abstract-natural-marble-black-and-white-for-design.jpg);
 
 
     background-size: cover;
