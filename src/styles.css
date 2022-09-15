@@ -244,9 +244,13 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+<<<<<<< HEAD
     background-image: url(../black-marble-patterned-texture-background-marble-of-thailand-abstract-natural-marble-black-and-white-for-design.jpg);
 
 
+=======
+    background-image: url(/assets/black-marble-patterned-texture-background-marble-of-thailand-abstract-natural-marble-black-and-white-for-design.12075b87.jpg);
+>>>>>>> e6811cbbada36f424890c4b6ae7dbaf73b9198bd
     background-size: cover;
     padding: 60px;
 
